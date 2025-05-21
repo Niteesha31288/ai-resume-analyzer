@@ -1,9 +1,7 @@
 # 🧠 AI Resume Analyzer
 
 **AI Resume Analyzer** is a web-based application that leverages OpenAI's GPT model to analyze and suggest improvements to user-uploaded resumes. Built with React, this tool extracts text from PDF resumes and provides AI-driven feedback to enhance formatting, keyword optimization, and content structure.
-
 ---
-
 ## 🔍 Features
 
 - 📤 Upload resume in **PDF format**
@@ -11,20 +9,8 @@
 - 🤖 Get AI-generated feedback using **OpenAI GPT-3.5**
 - 🖥️ Clean, minimalist UI with sectioned layout
 - 🔐 Secure API integration via environment variable
-
 ---
-
-## 📸 Screenshot
-
-> _(Add a screenshot in your repo and update the path below)_
-
-![Screenshot of the App](./screenshot.png)
-
----
-
-## 🚀 Live Demo (Optional)
-
-> _If deployed via Netlify/Vercel, add your link here_
+## 🚀 Live Demo
 
 🔗 [Live Demo](https://your-live-demo-link.com)
 
