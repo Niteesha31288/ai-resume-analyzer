@@ -10,6 +10,13 @@
 - 🖥️ Clean, minimalist UI with sectioned layout
 - 🔐 Secure API integration via environment variable
 ---
+## 📸 Screenshot
+
+> _(Add a screenshot in your repo and update the path below)_
+
+![Screenshot of the App](./result_images/Screenshot 2025-05-21 at 2.41.55 PM.png)
+
+---
 ## 🚀 Live Demo
 
 🔗 [Live Demo](https://your-live-demo-link.com)
